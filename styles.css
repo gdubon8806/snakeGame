@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+#spaceForGrid {
+  width:  500px;
+  border: red thin solid
+}
+#spaceForGrid div{
+  border: gray thin solid;
+  width: 48px;
+  height: 44px;     
+  display: inline-block;
+  margin-bottom: -4px
+}
+.partOfSnake {
+  background-color: black ;
+}
+
+.food{
+  background-color: orange;
+  
+}
